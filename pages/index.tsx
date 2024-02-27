@@ -229,7 +229,7 @@ export default function Home() {
             title: "FMS DEX",
             subtitle: "Swap FMS Token with MATIC",
             img: {
-              src: "https://i.imgur.com/34MRBfl.png",
+              src: "https://i.imgur.com/3D2Arx0.png",
               width: 150,
               height: 150,
             },
