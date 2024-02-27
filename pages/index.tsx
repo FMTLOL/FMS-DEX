@@ -185,7 +185,7 @@ export default function Home() {
             max={nativeBalance?.displayValue}
             value={nativeValue}
             setValue={setNativeValue}
-            tokenImage={"https://i.imgur.com/z0Mnily.png"} />
+            tokenImage={"https://i.imgur.com/XWPUYYI.png"} />
 
           <Button
             onClick={() =>
@@ -229,7 +229,7 @@ export default function Home() {
             title: "FMS DEX",
             subtitle: "Swap FMS Token with MATIC",
             img: {
-              src: "https://mumbai.polygonscan.com/assets/poly/images/svg/logos/logo-dim.svg?v=24.2.3.0",
+              src: "https://i.imgur.com/34MRBfl.png",
               width: 150,
               height: 150,
             },
